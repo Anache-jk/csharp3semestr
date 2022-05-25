@@ -1,0 +1,16 @@
+C:\Users\Simon\Desktop\ooplab2\ooplab2\obj\Debug\net5.0\ooplab2.csproj.AssemblyReference.cache
+C:\Users\Simon\Desktop\ooplab2\ooplab2\obj\Debug\net5.0\ooplab2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Simon\Desktop\ooplab2\ooplab2\obj\Debug\net5.0\ooplab2.AssemblyInfoInputs.cache
+C:\Users\Simon\Desktop\ooplab2\ooplab2\obj\Debug\net5.0\ooplab2.AssemblyInfo.cs
+C:\Users\Simon\Desktop\ooplab2\ooplab2\obj\Debug\net5.0\ooplab2.csproj.CoreCompileInputs.cache
+C:\Users\Simon\Desktop\ooplab2\ooplab2\bin\Debug\net5.0\ooplab2.exe
+C:\Users\Simon\Desktop\ooplab2\ooplab2\bin\Debug\net5.0\ooplab2.deps.json
+C:\Users\Simon\Desktop\ooplab2\ooplab2\bin\Debug\net5.0\ooplab2.runtimeconfig.json
+C:\Users\Simon\Desktop\ooplab2\ooplab2\bin\Debug\net5.0\ooplab2.runtimeconfig.dev.json
+C:\Users\Simon\Desktop\ooplab2\ooplab2\bin\Debug\net5.0\ooplab2.dll
+C:\Users\Simon\Desktop\ooplab2\ooplab2\bin\Debug\net5.0\ref\ooplab2.dll
+C:\Users\Simon\Desktop\ooplab2\ooplab2\bin\Debug\net5.0\ooplab2.pdb
+C:\Users\Simon\Desktop\ooplab2\ooplab2\obj\Debug\net5.0\ooplab2.dll
+C:\Users\Simon\Desktop\ooplab2\ooplab2\obj\Debug\net5.0\ref\ooplab2.dll
+C:\Users\Simon\Desktop\ooplab2\ooplab2\obj\Debug\net5.0\ooplab2.pdb
+C:\Users\Simon\Desktop\ooplab2\ooplab2\obj\Debug\net5.0\ooplab2.genruntimeconfig.cache
