@@ -1,0 +1,10 @@
+C:\Users\Simon\Desktop\oop6laba3lab\oop6laba3lab\bin\Debug\oop6laba3lab.exe.config
+C:\Users\Simon\Desktop\oop6laba3lab\oop6laba3lab\bin\Debug\oop6laba3lab.exe
+C:\Users\Simon\Desktop\oop6laba3lab\oop6laba3lab\bin\Debug\oop6laba3lab.pdb
+C:\Users\Simon\Desktop\oop6laba3lab\oop6laba3lab\obj\Debug\oop6laba3lab.csproj.AssemblyReference.cache
+C:\Users\Simon\Desktop\oop6laba3lab\oop6laba3lab\obj\Debug\oop6laba3lab.Properties.Resources.resources
+C:\Users\Simon\Desktop\oop6laba3lab\oop6laba3lab\obj\Debug\oop6laba3lab.csproj.GenerateResource.cache
+C:\Users\Simon\Desktop\oop6laba3lab\oop6laba3lab\obj\Debug\oop6laba3lab.csproj.CoreCompileInputs.cache
+C:\Users\Simon\Desktop\oop6laba3lab\oop6laba3lab\obj\Debug\oop6laba3lab.exe
+C:\Users\Simon\Desktop\oop6laba3lab\oop6laba3lab\obj\Debug\oop6laba3lab.pdb
+C:\Users\Simon\Desktop\oop6laba3lab\oop6laba3lab\obj\Debug\oop6laba3lab.databaseconnect.resources

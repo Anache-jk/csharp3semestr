@@ -1,0 +1,10 @@
+C:\Users\Simon\Desktop\lab6ooplab5\lab6ooplab5\bin\Debug\lab6ooplab5.exe.config
+C:\Users\Simon\Desktop\lab6ooplab5\lab6ooplab5\bin\Debug\lab6ooplab5.exe
+C:\Users\Simon\Desktop\lab6ooplab5\lab6ooplab5\bin\Debug\lab6ooplab5.pdb
+C:\Users\Simon\Desktop\lab6ooplab5\lab6ooplab5\obj\Debug\lab6ooplab5.csproj.AssemblyReference.cache
+C:\Users\Simon\Desktop\lab6ooplab5\lab6ooplab5\obj\Debug\lab6ooplab5.Form1.resources
+C:\Users\Simon\Desktop\lab6ooplab5\lab6ooplab5\obj\Debug\lab6ooplab5.Properties.Resources.resources
+C:\Users\Simon\Desktop\lab6ooplab5\lab6ooplab5\obj\Debug\lab6ooplab5.csproj.GenerateResource.cache
+C:\Users\Simon\Desktop\lab6ooplab5\lab6ooplab5\obj\Debug\lab6ooplab5.csproj.CoreCompileInputs.cache
+C:\Users\Simon\Desktop\lab6ooplab5\lab6ooplab5\obj\Debug\lab6ooplab5.exe
+C:\Users\Simon\Desktop\lab6ooplab5\lab6ooplab5\obj\Debug\lab6ooplab5.pdb

@@ -1,0 +1,10 @@
+C:\Users\Simon\Desktop\laba6oop1lab\laba6oop1lab\bin\Debug\laba6oop1lab.exe.config
+C:\Users\Simon\Desktop\laba6oop1lab\laba6oop1lab\bin\Debug\laba6oop1lab.exe
+C:\Users\Simon\Desktop\laba6oop1lab\laba6oop1lab\bin\Debug\laba6oop1lab.pdb
+C:\Users\Simon\Desktop\laba6oop1lab\laba6oop1lab\obj\Debug\laba6oop1lab.csproj.AssemblyReference.cache
+C:\Users\Simon\Desktop\laba6oop1lab\laba6oop1lab\obj\Debug\laba6oop1lab.Form1.resources
+C:\Users\Simon\Desktop\laba6oop1lab\laba6oop1lab\obj\Debug\laba6oop1lab.Properties.Resources.resources
+C:\Users\Simon\Desktop\laba6oop1lab\laba6oop1lab\obj\Debug\laba6oop1lab.csproj.GenerateResource.cache
+C:\Users\Simon\Desktop\laba6oop1lab\laba6oop1lab\obj\Debug\laba6oop1lab.csproj.CoreCompileInputs.cache
+C:\Users\Simon\Desktop\laba6oop1lab\laba6oop1lab\obj\Debug\laba6oop1lab.exe
+C:\Users\Simon\Desktop\laba6oop1lab\laba6oop1lab\obj\Debug\laba6oop1lab.pdb
