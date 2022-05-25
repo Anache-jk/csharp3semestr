@@ -1,0 +1,16 @@
+C:\Users\Simon\Desktop\oop4laba\oop4laba\obj\Debug\net5.0\oop4laba.csproj.AssemblyReference.cache
+C:\Users\Simon\Desktop\oop4laba\oop4laba\obj\Debug\net5.0\oop4laba.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Simon\Desktop\oop4laba\oop4laba\obj\Debug\net5.0\oop4laba.AssemblyInfoInputs.cache
+C:\Users\Simon\Desktop\oop4laba\oop4laba\obj\Debug\net5.0\oop4laba.AssemblyInfo.cs
+C:\Users\Simon\Desktop\oop4laba\oop4laba\obj\Debug\net5.0\oop4laba.csproj.CoreCompileInputs.cache
+C:\Users\Simon\Desktop\oop4laba\oop4laba\bin\Debug\net5.0\oop4laba.exe
+C:\Users\Simon\Desktop\oop4laba\oop4laba\bin\Debug\net5.0\oop4laba.deps.json
+C:\Users\Simon\Desktop\oop4laba\oop4laba\bin\Debug\net5.0\oop4laba.runtimeconfig.json
+C:\Users\Simon\Desktop\oop4laba\oop4laba\bin\Debug\net5.0\oop4laba.runtimeconfig.dev.json
+C:\Users\Simon\Desktop\oop4laba\oop4laba\bin\Debug\net5.0\oop4laba.dll
+C:\Users\Simon\Desktop\oop4laba\oop4laba\bin\Debug\net5.0\ref\oop4laba.dll
+C:\Users\Simon\Desktop\oop4laba\oop4laba\bin\Debug\net5.0\oop4laba.pdb
+C:\Users\Simon\Desktop\oop4laba\oop4laba\obj\Debug\net5.0\oop4laba.dll
+C:\Users\Simon\Desktop\oop4laba\oop4laba\obj\Debug\net5.0\ref\oop4laba.dll
+C:\Users\Simon\Desktop\oop4laba\oop4laba\obj\Debug\net5.0\oop4laba.pdb
+C:\Users\Simon\Desktop\oop4laba\oop4laba\obj\Debug\net5.0\oop4laba.genruntimeconfig.cache
